@@ -1,10 +1,9 @@
 # SWDet
 **PyTorch implementation of "*SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images*"**
 
-# Highlights
-  <p align="center"> <img src="![image](https://github.com/shenhaibb/SWDet/blob/main/imgs/SWDet.jpg)" alt="SWDet"></p>
-  <p align="center"> <img src="![image](https://github.com/shenhaibb/SWDet/blob/main/imgs/map.jpg)" alt="map"></p>
-  <p align="center"> <img src="![image](https://github.com/shenhaibb/SWDet/blob/main/imgs/SWAD.jpg)" alt="SWAD"></p>
+## Highlights
+  <p align="center"> <img src="./imgs/SWDet.jpg" alt="SWDet"></p>
+  <p align="center"> <img src="./imgs/SWAD.jpg" alt="SWAD"></p>
 
 ## Benchmark
 |Model          |    Backbone     |    MS  |  Rotate | Lr schd  | Inf time (fps) | box AP| Download|
