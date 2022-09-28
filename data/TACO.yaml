@@ -1,0 +1,27 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# COCO128 dataset https://www.kaggle.com/ultralytics/coco128 (first 128 images from COCO train2017)
+# Example usage: python train.py --data coco128.yaml
+# parent
+# ├── yolov5
+# └── datasets
+#     └── coco128  ← downloads here
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /media/henu/新加卷1/rxh/datasets/TACO/TACO_yolo # dataset root dir
+train:
+  - images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+test: images/val # test images (optional)
+
+# Classes
+nc: 5  # number of classes
+#names: [ 'Glass bottle', 'Broken glass', 'Drink can', 'Pizza box', 'Disposable plastic cup',
+#         'Food waste', 'Tissues', 'Paper bag', 'Foam food container', 'Cigarette' ]
+
+#names: [ 'Battery', 'Glass bottle', 'Plastic bottle cap', 'Metal bottle cap', 'Broken glass',
+#         'Food Can', 'Drink can', 'Pizza box', 'Paper cup', 'Disposable plastic cup',
+#         'Glass cup', 'Food waste', 'Magazine paper', 'Tissues', 'Wrapping paper',
+#         'Paper bag', 'Single-use carrier bag', 'Disposable food container', 'Foam food container', 'Cigarette' ]
+
+names: ['Clear plastic bottle', 'Plastic bottle cap', 'Drink can', 'Plastic film', 'Cigarette']
