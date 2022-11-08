@@ -1,5 +1,5 @@
 # SWDet
-**PyTorch implementation of "*SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images*"**
+**PyTorch implementation of "*SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images*",  [<a href="https://ieeexplore.ieee.org/document/9935119">IEEE JSTARS, 2022</a>].**<br><br>
 
 ## Highlights
 <p align="center"> <img src="https://raw.github.com/shenhaibb/SWDet/main/imgs/SWDet.jpg" alt="SWDet" width="80%"></p>
