@@ -22,17 +22,17 @@
 
 ## Citation
 ```
-@misc{swdet,
-   author={Liming Zhou, Xiaohan Rao, Yahui Li, Xianyu Zuo, Yang Liu, Yinghao Lin, and Yong Yang},
-   title={SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images},
-   howpublished={\url{https://github.com/shenhaibb/SWDet}},
-   year={2022},
-}
-
 @misc{yolov5,
    author={Ultralytics},
    title={YOLOv5},
    howpublished={\url{https://github.com/ultralytics/yolov5}}
+}
+
+@article{swdet,
+  title={SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images},
+  author={Liming Zhou, Xiaohan Rao, Yahui Li, Xianyu Zuo, Yang Liu, Yinghao Lin, and Yong Yang},
+  journal= {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2022}
 }
 
 @article{mmdetection,
