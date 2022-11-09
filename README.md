@@ -29,11 +29,12 @@
 }
 
 @article{swdet,
-  title={SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images},
-  author={Liming Zhou, Xiaohan Rao, Yahui Li, Xianyu Zuo, Yang Liu, Yinghao Lin, and Yong Yang},
-  journal= {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  year={2022}
-}
+  author={Zhou, Liming and Rao, Xiaohan and Li, Yahui and Zuo, Xianyu and Liu, Yang and Lin, Yinghao and Yang, Yong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images}, 
+  year={2022},
+  pages={1-15},
+  doi={10.1109/JSTARS.2022.3218958}}
 
 @article{mmdetection,
   title={{MMDetection}: Open MMLab Detection Toolbox and Benchmark},
