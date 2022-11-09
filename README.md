@@ -34,7 +34,8 @@
   title={SWDet: Anchor-based Object Detector for Solid Waste Detection in Aerial Images}, 
   year={2022},
   pages={1-15},
-  doi={10.1109/JSTARS.2022.3218958}}
+  doi={10.1109/JSTARS.2022.3218958}
+}
 
 @article{mmdetection,
   title={{MMDetection}: Open MMLab Detection Toolbox and Benchmark},
