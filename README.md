@@ -22,12 +22,6 @@
 
 ## Citation
 ```
-@misc{yolov5,
-   author={Ultralytics},
-   title={YOLOv5},
-   howpublished={\url{https://github.com/ultralytics/yolov5}}
-}
-
 @article{swdet,
   author={Zhou, Liming and Rao, Xiaohan and Li, Yahui and Zuo, Xianyu and Liu, Yang and Lin, Yinghao and Yang, Yong},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
@@ -35,18 +29,6 @@
   year={2022},
   pages={1-15},
   doi={10.1109/JSTARS.2022.3218958}
-}
-
-@article{mmdetection,
-  title={{MMDetection}: Open MMLab Detection Toolbox and Benchmark},
-  author={Chen, Kai and Wang, Jiaqi and Pang, Jiangmiao and Cao, Yuhang and
-         Xiong, Yu and Li, Xiaoxiao and Sun, Shuyang and Feng, Wansen and
-         Liu, Ziwei and Xu, Jiarui and Zhang, Zheng and Cheng, Dazhi and
-         Zhu, Chenchen and Cheng, Tianheng and Zhao, Qijie and Li, Buyu and
-         Lu, Xin and Zhu, Rui and Wu, Yue and Dai, Jifeng and Wang, Jingdong
-         and Shi, Jianping and Ouyang, Wanli and Loy, Chen Change and Lin, Dahua},
-  journal= {arXiv preprint arXiv:1906.07155},
-  year={2019}
 }
 ```
 
